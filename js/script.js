@@ -5,8 +5,19 @@ function ativarLink(link) {
     const href = link.href;
 
     if(url.includes(href)) {
-        link.classList.add('ativo');
+        link.classList.add("ativo");
     }
 }
 
-links.forEach(ativarLink)
+links.forEach(ativarLink);
+
+const parametros = new URLSearchParams(location.search);
+
+function ativarProduto(parametro) {
+    const elemento = document.getElementById(parametro);
+    if(elemento) {
+        elemento.checked = true;
+    }
+}
+
+parametros.forEach(ativarProduto);
