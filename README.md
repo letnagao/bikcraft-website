@@ -11,7 +11,8 @@ Website Bikcraft made using HTML, CSS & JavaScript.
 
 </ul><h2> Preview ⚡️</h2>
 <p align="center">
-  <img src="" />
+  <img src="https://user-images.githubusercontent.com/99754900/212082679-6a9458eb-4201-478d-bd98-1d7a49264548.jpg" />
+    <img src="https://user-images.githubusercontent.com/99754900/212082685-048be8dc-d327-4ef8-a19c-e289ebdd0066.jpg" />
 </p>  
 
 
@@ -36,21 +37,10 @@ Website Bikcraft made using HTML, CSS & JavaScript.
 ~ git clone https://github.com/letnagao/bikcraft-website.git
 #2. cd into it
 ~ cd bikcraft-website
-#3. install server dependencies
-~ npm i
-#3. install client dependencies
-~ cd client && npm i
-#4. run app (both client & server)
-~ npm run dev
+#3. start the page 
+~ click in index.html file
 ```
-*available scripts*
-```bash
-~ npm run client
-~ npm run server
-~ npm run build
-~ npm run dev
-~ npm start
-```
+
 </details>
 
 ## Contributing 💡
