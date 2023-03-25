@@ -15,18 +15,17 @@ Website Bikcraft made using HTML, CSS & JavaScript.
     <img src="https://user-images.githubusercontent.com/99754900/212082685-048be8dc-d327-4ef8-a19c-e289ebdd0066.jpg" />
 </p>  
 
-
 ## Website 💻
 
-
 ## Features 🔥
-✔️ <br />
-✔️ <br />
-✔️ <br />
+✔️ Website Bikcraft made using HTML CSS & JavaScript <br /> 
+✔️ It contains a stylish and beautiful components. <br /> 
+✔️ Developed first with the Mobile First methodology, then for desktop <br /> 
+✔️ Compatible with all mobile devices. <br /> 
 
 ## Technologies used 🛠️
 **Design**: *Css & Styled Components*<br />
-**Backend**: ** <br />
+
 
 ## Usage 📋
 <details open>
